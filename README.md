@@ -8,7 +8,7 @@ Team Members
 # Flight Booking System for Airlines (Java Web Application) ✈️ 
 
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
+<a><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/issues)
@@ -97,9 +97,9 @@ the pay button consider the transaction done and mark the seat sold.
 <role rolename="Admin"/>
 <role rolename="Customer"/>
 
-<user username="haris@admin.com" password="a" roles="Admin"/>
-<user username="haris@manager.com" password="m" roles="Manager"/>
-<user username="shariq@customer.com" password="c" roles="Customer"/>
+<user username="akash@admin.com" password="a" roles="Admin"/>
+<user username="aravinth@manager.com" password="m" roles="Manager"/>
+<user username="kingston@customer.com" password="c" roles="Customer"/>
 ```
 
 <p align="middle">
@@ -116,8 +116,6 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 
 <br>
 <hr>
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
 
 
 ### Creator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best software to collect Facebook data for research & analysis) 
