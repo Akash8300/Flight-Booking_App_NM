@@ -1,0 +1,4 @@
+_id,flightId,flightName,origin,departureTime,destination,arrivalTime,basePrice,totalSeats,__v
+64c8bdf8a567ef45678d9f34,FL123,Air India,Delhi,12:00,Pune,17:00,150,180,
+64c8bdf8a567ef45678d9f35,FL124,Air India,Mumbai,15:00,Chennai,20:00,200,200,
+673ffa36c52ed5a833e15ed5,123456,Air India,Mumbai,10:00,Trivendrum,12:00,450,130,0

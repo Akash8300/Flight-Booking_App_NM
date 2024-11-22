@@ -1,0 +1,4 @@
+_id,username,email,usertype,password,approval,__v
+673f63a0e1c1f876cf822bf6,Akash1802,admin@gmail.com,admin,$2b$10$g3OGuxgp2RU6n4mkXUaG6uPzh5uaJFvgJpV5NooX4JLcICn6pkfLq,approved,0
+673ff810c52ed5a833e15e8e,Akash18022004,customer@gmail.com,customer,$2b$10$2j4ZJA6OEryO9.Fx8YSQBewMzTaY8xkt9TLFJLAgrKH9ZjxHPKU/O,approved,0
+6740018d2f9b74e3b6857857,Air India,airindia@gmail.com,flight-operator,$2b$10$v8lqZfxS8EOi9shZoSBI5eCZZ.VuhfbSg2vRq/ncDGB4XdAGakqJu,approved,0
